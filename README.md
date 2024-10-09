@@ -43,7 +43,9 @@ then the weather forecast is ready you can use it
 
 - `react-js`
 - `material-ui`
-
+- `HTML`
+- `CSS`
+  
 Check `packages.json` for details
 
 <br/>
